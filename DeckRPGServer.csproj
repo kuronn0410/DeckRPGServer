@@ -16,6 +16,9 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="Requests\" />
+    <Folder Include="Services\" />
+    <Folder Include="Responses\" />
   </ItemGroup>
 
 </Project>

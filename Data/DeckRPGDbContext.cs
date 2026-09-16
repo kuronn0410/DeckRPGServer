@@ -13,6 +13,8 @@ namespace DeckRPGServer.Data
         {
         }
 
+        public DbSet<Card> Cards { get; set; }
+        public DbSet<Weapon> Weapons { get; set; }
         public DbSet<Player> Players { get; set; }
     }
 }
